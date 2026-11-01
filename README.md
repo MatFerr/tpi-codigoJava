@@ -1,6 +1,6 @@
 # Guía de Ejecución - Script en Java (Conector JDBC)
 
-Esta guía detalla los pasos necesarios para configurar el driver JDBC de MySQL manualmente, establecer la conexión a la base de datos local y ejecutar el script en Java con consultas seguras (`PreparedStatement`).
+Esta guía detalla los pasos necesarios para configurar el driver JDBC de MySQL manualmente, establecer la conexión a la base de datos local y ejecutar los script en Java 
 
 ## Paso 1: Descargar e integrar el Driver JDBC
 Debes incorporar el conector de forma manual:
