@@ -10,4 +10,6 @@ Debes incorporar el conector de forma manual:
 
 ## Paso 2: Configurar la Conexión a la Base de Datos
 Configura y cambia las credenciales de la base de datos en el archivo `ConexionBD.java`. Completa con los datos del usuario con privilegios mínimos (`usuarioMinPriv`)
-## Paso 3: Ejecuta el archivo `Main.java`
+## Paso 3: Ejecuta el archivo adecuado
+ * Etapa 4 (Consultas seguras con PreparedStatement): Ejecutar el archivo `Main.java`
+ * Etapa 5 (Procedimiento almacenado): Configurar el id y cantidades del archivo `TransaccionService.java`, y posteriormente ejecutar el archivo                         `MainTransacciones.java`
