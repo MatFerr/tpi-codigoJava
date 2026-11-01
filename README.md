@@ -10,3 +10,4 @@ Debes incorporar el conector de forma manual:
 
 ## Paso 2: Configurar la Conexión a la Base de Datos
 Configura y cambia las credenciales de la base de datos en el archivo `ConexionBD.java`. Completa con los datos del usuario con privilegios mínimos (`usuarioMinPriv`)
+## Paso 3: Ejecuta el archivo `Main.java`
